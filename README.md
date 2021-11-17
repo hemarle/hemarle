@@ -1,4 +1,9 @@
 ### Hi there 👋
+It's nice to have you here.
+- 🔭 I’m currently working on creating a chrome extension
+- 👯 I’m looking to collaborate on any frontend job you have for me.
+- 🤔 I’m looking for help with jr frontend jobs
+- 📫 How to reach me: 08125047894 or dfmopeoluwa@gmail.com 
 
 <!--
 **hemarle/hemarle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
