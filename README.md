@@ -1,8 +1,8 @@
 ### Hi there 👋
 It's nice to have you here.
-- 🔭 I’m currently working on creating a chrome extension
+- 🔭 I’m currently creating landing pages for multiple NFTs
 - 👯 I’m looking to collaborate on any frontend job you have for me.
-- 🤔 I’m looking for help with jr frontend jobs
+- 🤔 I’m currently looking for junior frontend jobs or internships.
 - 📫 How to reach me: 08125047894 or dfmopeoluwa@gmail.com 
 
 <!--
