@@ -5,7 +5,7 @@ It's nice to have you here.
 - 🔭 I’m currently learning Web3 (Solidity, metaverse, Nfts and co)
 - 👯 I’m looking to collaborate on any frontend job you have for me.
 - 🤔 I’m also available for any web devolpment gig you have for me
-- 📫 How to reach me: 08125047894 or dfmopeoluwa@gmail.com 
+- 📫 How to reach me: 08060678720 or dfmopeoluwa@gmail.com 
 
 <!--
 **hemarle/hemarle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
