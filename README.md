@@ -1,9 +1,8 @@
 ### Hi there 👋
 It's nice to have you here.
 
-- 🔭 I’m a frontend developer with experience on React-Js, NEXT-JS, Firebase, Sanity.
-- 🔭 I’m currently learning Web3 (Solidity, metaverse, Nfts and co)
-- 👯 I’m looking to collaborate on any frontend job you have for me.
+- 🔭 I’m a fullstack developer with experience on React-Js, NEXT-JS, NestJS, Firebase, Sanity.
+- 👯 I’m looking to collaborate on any web application job you have for me.
 - 🤔 I’m also available for any web devolpment gig you have for me
 - 📫 How to reach me: 08060678720 or dfmopeoluwa@gmail.com 
 
